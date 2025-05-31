@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/schermata_cardapp">
+
+    <!-- Bottone per "Consulta tutte le CARD" -->
+    <Button
+        android:id="@+id/buttonConsulta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/consulta_card"
+        android:textColor="#FFFFFF"
+        android:background="#004080"
+        android:padding="14dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp" />
+
+    <!-- Bottone per "Elenco moduli Form attivi" -->
+    <Button
+        android:id="@+id/buttonModuli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/elenco_form"
+        android:textColor="#FFFFFF"
+        android:background="#0059b3"
+        android:padding="14dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp" />
+
+</RelativeLayout>
