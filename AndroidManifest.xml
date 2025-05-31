@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cardapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_cardapp"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/schermata_cardapp"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CardApp">
+        <activity
+            android:name=".PresenceActivity"
+            android:exported="false" />
+        <activity android:name=".SecondActivity" /> <!-- MainActivity è quella che si apre all'avvio -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
