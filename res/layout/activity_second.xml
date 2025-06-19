@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/schermata_cardapp">
 
-    <!-- Bottone per "Consulta tutte le CARD" -->
     <Button
         android:id="@+id/buttonConsulta"
         android:layout_width="wrap_content"
@@ -17,7 +16,6 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="40dp" />
 
-    <!-- Bottone per "Elenco moduli Form attivi" -->
     <Button
         android:id="@+id/buttonModuli"
         android:layout_width="wrap_content"
