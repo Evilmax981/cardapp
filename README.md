@@ -113,7 +113,7 @@ This project is released under the MIT License. See the LICENSE file for more de
 
 Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
 
-☕ Was this app helpful? Support us with a small donation – you'll help us keep coding with passion! 💙
+☕ Was this app helpful? Support us with a small donation – you'll help us keep coding with passion! 💙    
 
 PAYPAL: sbriacca@degregorio.com 
 BITCOIN (Coinbase Wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
