@@ -45,3 +45,76 @@ Sviluppatori : Filippo Sbriglia – Raffaele Iaccarino - Massimiliano De Gregori
 PAYPAL : sbriacca@degregorio.com
 BITCOIN (coin base wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
 POSTEPAY: 5341 2345 6789 0090
+
+ENGLISH VERSION 
+
+📇 CardApp
+CardApp is a simple and functional Android application designed to provide easy access to digital forms and registration modules for the HR departments of large companies.
+
+📱 Main Features
+Start Screen (MainActivity): displays a tappable logo that launches the app.
+
+Second Screen (SecondActivity): lets users choose between:
+
+"View all CARDS"
+
+"Active Forms List"
+Both options lead to the forms screen.
+
+Forms Screen (PresenceActivity): provides direct access to 5 different Microsoft Forms for:
+
+Workers
+
+Students
+
+Patients
+
+Visitors
+
+Clients
+
+🔗 Form Links
+Each button in the PresenceActivity screen opens an external link to the corresponding form:
+
+Workers: forms.office.com/zBUbpV6iNZ
+
+Students: forms.office.com/Mdzvf9cC3m
+
+Patients: forms.office.com/CA0AgWcWjD
+
+Visitors: forms.office.com/s2sRDTEPqE
+
+Clients: forms.office.com/HHyb6LGd5Z
+
+🛠️ Technologies Used
+Kotlin
+
+Android Studio
+
+Gradle (Kotlin DSL)
+
+Intent & View Binding
+
+External Link Handling
+
+🚀 How to Run the Project
+Clone the repository or download the .zip file.
+
+Open the project in Android Studio.
+
+Sync Gradle files.
+
+Connect a physical Android device or start an emulator.
+
+Run the app by clicking ▶️.
+
+📄 License
+This project is released under the MIT License. See the LICENSE file for more details.
+
+Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
+
+☕ Was this app helpful? Support us with a small donation – you'll help us keep coding with passion! 💙
+
+PAYPAL: sbriacca@degregorio.com
+BITCOIN (Coinbase Wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
+POSTEPAY: 5341 2345 6789 0090
