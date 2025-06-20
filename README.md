@@ -115,6 +115,6 @@ Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
 
 ☕ Was this app helpful? Support us with a small donation – you'll help us keep coding with passion! 💙
 
-PAYPAL: sbriacca@degregorio.com \n 
+PAYPAL: sbriacca@degregorio.com 
 BITCOIN (Coinbase Wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
 POSTEPAY: 5341 2345 6789 0090
