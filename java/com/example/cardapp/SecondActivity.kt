@@ -10,20 +10,3 @@ class SecondActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        // riferimenti ai due pulsanti
-        val buttonConsulta = findViewById<Button>(R.id.buttonConsulta)
-        val buttonModuli = findViewById<Button>(R.id.buttonModuli)
-
-        // click su "Consulta tutte le CARD"
-        buttonConsulta.setOnClickListener {
-            val intent = Intent(this, PresenceActivity::class.java)
-            startActivity(intent)
-        }
-
-        // click su "Elenco moduli Form attivi"
-        buttonModuli.setOnClickListener {
-            val intent = Intent(this, PresenceActivity::class.java)
-            startActivity(intent)
-        }
-    }
-}
