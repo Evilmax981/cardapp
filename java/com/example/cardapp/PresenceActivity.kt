@@ -13,15 +13,15 @@ class PresenceActivity : AppCompatActivity() {
 
         // Collegamento per ogni pulsante
         findViewById<View>(R.id.buttonLavoratori).setOnClickListener {
-            openLink("https://forms.office.com/e/zBUbpV6iNZ?origin=lprLink")
-        }
-
-        findViewById<View>(R.id.buttonStudenti).setOnClickListener {
             openLink("https://forms.office.com/e/Mdzvf9cC3m?origin=lprLink")
         }
 
-        findViewById<View>(R.id.buttonPazienti).setOnClickListener {
+        findViewById<View>(R.id.buttonStudenti).setOnClickListener {
             openLink("https://forms.office.com/e/CA0AgWcWjD?origin=lprLink")
+        }
+
+        findViewById<View>(R.id.buttonPazienti).setOnClickListener {
+            openLink("https://forms.office.com/e/s2sRDTEPqE?origin=lprLink")
         }
 
         findViewById<View>(R.id.buttonVisitatori).setOnClickListener {
