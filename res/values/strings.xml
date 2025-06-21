@@ -1,14 +1,2 @@
 <resources>
-    <string name="app_name">CardApp</string>
-    <string name="consulta_card">Consulta tutte le CARD</string>
-    <string name="elenco_form">Elenco moduli Form attivi</string>
-    <string name="elenco_form">Elenco moduli Form attivi</string>
-    <string name="presenze_lavoratori">Presenze Lavoratori</string>
-    <string name="presenze_studenti">Presenze Studenti</string>
-    <string name="presenze_pazienti">Presenze Pazienti</string>
-    <string name="presenze_visitatori">Presenze Visitatori</string>
-    <string name="presenze_clienti">Presenze Clienti</string>
-    <string name="settore_presenze">Settore Presenze</string>
-    <string name="info_presenze_dei">Informazioni sulle presenze dei</string>
-    <string name="info_presenze_degli">Informazioni sulle presenze degli</string>
-</resources>
+    
