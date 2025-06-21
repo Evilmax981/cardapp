@@ -56,6 +56,7 @@ ________________________________________
 This project is released under the MIT License. See the LICENSE file for more information.
 
 Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
+
 ☕ Was this app helpful? Treat us to a coffee with a small donation – you'll help us keep developing with passion! 💙
 - PAYPAL: sbriacca@degregorio.com
 - BITCOIN (Coinbase wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
@@ -102,6 +103,7 @@ ________________________________________
 Questo progetto è distribuito sotto licenza MIT. Vedi il file LICENSE per maggiori informazioni.
 
 Sviluppatori : Filippo Sbriglia – Raffaele Iaccarino - Massimiliano De Gregorio
+
 ☕ Ti è stata utile l'app? Offrici un caffè con una piccola donazione – ci aiuterai a continuare a sviluppare con passione! 💙
 PAYPAL : sbriacca@degregorio.com
 BITCOIN (coin base wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
