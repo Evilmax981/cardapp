@@ -27,15 +27,16 @@ ________________________________________
 • External Link Handling
 ________________________________________
 🚀 How to Run the Project
-Clone the repository or download the .zip file.
 
-Open the project in Android Studio.
+1.Clone the repository or download the .zip file.
 
-Sync Gradle files.
+2.Open the project in Android Studio.
 
-Connect an Android device or launch an emulator.
+3.Sync Gradle files.
 
-Run the app by clicking ▶️.
+4.Connect an Android device or launch an emulator.
+
+5.Run the app by clicking ▶️.
 ________________________________________
 📄 License
 This project is released under the MIT License. See the LICENSE file for more information.
