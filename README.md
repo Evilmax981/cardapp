@@ -1,6 +1,52 @@
 # cardapp
+📇 CardApp
+CardApp is a simple and functional Android application designed to facilitate access to digital forms and registration modules for the Human Resources departments of large companies.
+________________________________________
+📱 Main Features
+• Start Screen (MainActivity): displays a tappable logo that launches the app.
+• Second Screen (SecondActivity): allows users to choose between:
+o "View all CARDS"
+o "Active Form List"
+Both options lead to the forms screen.
+• Forms Screen (PresenceActivity): provides direct access to 5 different online forms (Microsoft Forms) to simplify employee consultation.
 
+________________________________________
+🔗 Currently Available Forms
+Each button in the PresenceActivity screen opens an external link to the following forms:
+• Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers): forms.office.com/zBUbpV6iNZ
+• Midweek Holiday Request – YEAR 2025: forms.office.com/Mdzvf9cC3m
+• Solidarity Leave Bank: forms.office.com/CA0AgWcWjD
+• Contract Stabilization: forms.office.com/HHyb6LGd5Z
+• GOP Contact Registration Form: forms.office.com/zBUbpV6iNZ
+________________________________________
+🛠️ Technologies Used
+• Kotlin
+• Android Studio
+• Gradle (Kotlin DSL)
+• Intent & View Binding
+• External Link Handling
+________________________________________
+🚀 How to Run the Project
+Clone the repository or download the .zip file.
 
+Open the project in Android Studio.
+
+Sync Gradle files.
+
+Connect an Android device or launch an emulator.
+
+Run the app by clicking ▶️.
+________________________________________
+📄 License
+This project is released under the MIT License. See the LICENSE file for more information.
+
+Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
+☕ Was this app helpful? Treat us to a coffee with a small donation – you'll help us keep developing with passion! 💙
+PAYPAL: sbriacca@degregorio.com
+BITCOIN (Coinbase wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
+POSTEPAY: 5341 2345 6789 0090
+
+ITALIAN VERSION
 
 📇 CardApp
 CardApp è un'applicazione Android semplice e funzionale progettata per facilitare l’accesso a moduli digitali e form di registrazione per gli uffici delle risorse umane di grandi aziende.
