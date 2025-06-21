@@ -1,4 +1,6 @@
 <resources>
+    //modifcare secondo le nuove indicazioni
+    
     <string name="app_name">CardApp</string>
     <string name="consulta_card">Consulta tutte le CARD</string>
     <string name="elenco_form">Elenco moduli Form attivi</string>
