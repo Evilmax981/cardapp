@@ -6,10 +6,12 @@ ________________________________________
 📱 Main Features
 
 • Start Screen (MainActivity): displays a tappable logo that launches the app.
+
 • Second Screen (SecondActivity): allows users to choose between:
 o "View all CARDS"
 o "Active Form List"
 Both options lead to the forms screen.
+
 • Forms Screen (PresenceActivity): provides direct access to 5 different online forms (Microsoft Forms) to simplify employee consultation.
 
 ________________________________________
