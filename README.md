@@ -13,6 +13,7 @@ Both options lead to the forms screen.
 ________________________________________
 🔗 Currently Available Forms
 Each button in the PresenceActivity screen opens an external link to the following forms:
+
 • Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers): forms.office.com/zBUbpV6iNZ
 • Midweek Holiday Request – YEAR 2025: forms.office.com/Mdzvf9cC3m
 • Solidarity Leave Bank: forms.office.com/CA0AgWcWjD
@@ -63,6 +64,7 @@ Entrambe le opzioni portano alla schermata dei moduli.
 ________________________________________
 🔗 Link ai moduli attualmente disponibili
 Ogni pulsante nella schermata PresenceActivity apre un link esterno ai seguenti form:
+
 •	ESONERO CONTRIBUTIVO art.1 co. 180-182 L. 213/23 (per madri): forms.office.com/zBUbpV6iNZ
 •	Festività Infrasettimanale  ANNUALITA' 2025: forms.office.com/Mdzvf9cC3m
 •	BANCA FERIE SOLIDALI: forms.office.com/CA0AgWcWjD
