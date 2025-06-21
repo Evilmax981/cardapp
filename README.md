@@ -16,11 +16,15 @@ ________________________________________
 🔗 Currently Available Forms
 Each button in the PresenceActivity screen opens an external link to the following forms:
 
-1• Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers): forms.office.com/zBUbpV6iNZ
-2• Midweek Holiday Request – YEAR 2025: forms.office.com/Mdzvf9cC3m
-3• Solidarity Leave Bank: forms.office.com/CA0AgWcWjD
-4• Contract Stabilization: forms.office.com/HHyb6LGd5Z
-5• GOP Contact Registration Form: forms.office.com/zBUbpV6iNZ
+1• Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers):  forms.office.com/zBUbpV6iNZ
+
+2• Midweek Holiday Request – YEAR 2025:  forms.office.com/Mdzvf9cC3m
+
+3• Solidarity Leave Bank:  forms.office.com/CA0AgWcWjD
+
+4• Contract Stabilization:  forms.office.com/HHyb6LGd5Z
+
+5• GOP Contact Registration Form:  forms.office.com/zBUbpV6iNZ
 ________________________________________
 🛠️ Technologies Used
 
