@@ -14,7 +14,7 @@
             android:id="@+id/titleText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/settore_presenze"
+            android:text="@string/"
             android:textStyle="bold"
             android:textSize="24sp"
             android:textColor="#0C3B70"
@@ -25,7 +25,7 @@
             android:id="@+id/buttonLavoratori"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/presenze_lavoratori"
+            android:text="@string/"
             android:layout_marginBottom="12dp"
             android:backgroundTint="#EEEEEE"
             android:textColor="#000000" />
@@ -34,7 +34,7 @@
             android:id="@+id/buttonStudenti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/presenze_studenti"
+            android:text="@string/"
             android:layout_marginBottom="12dp"
             android:backgroundTint="#EEEEEE"
             android:textColor="#000000" />
@@ -43,7 +43,7 @@
             android:id="@+id/buttonPazienti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/presenze_pazienti"
+            android:text="@string/"
             android:layout_marginBottom="12dp"
             android:backgroundTint="#EEEEEE"
             android:textColor="#000000" />
@@ -52,7 +52,7 @@
             android:id="@+id/buttonVisitatori"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/presenze_visitatori"
+            android:text="@string/"
             android:layout_marginBottom="12dp"
             android:backgroundTint="#EEEEEE"
             android:textColor="#000000" />
@@ -61,7 +61,7 @@
             android:id="@+id/buttonClienti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/presenze_clienti"
+            android:text="@string/"
             android:backgroundTint="#EEEEEE"
             android:textColor="#000000" />
 
