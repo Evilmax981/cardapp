@@ -1,8 +1,10 @@
 # cardapp
 📇 CardApp
+
 CardApp is a simple and functional Android application designed to facilitate access to digital forms and registration modules for the Human Resources departments of large companies.
 ________________________________________
 📱 Main Features
+
 • Start Screen (MainActivity): displays a tappable logo that launches the app.
 • Second Screen (SecondActivity): allows users to choose between:
 o "View all CARDS"
@@ -21,6 +23,7 @@ Each button in the PresenceActivity screen opens an external link to the followi
 5• GOP Contact Registration Form: forms.office.com/zBUbpV6iNZ
 ________________________________________
 🛠️ Technologies Used
+
 • Kotlin
 • Android Studio
 • Gradle (Kotlin DSL)
