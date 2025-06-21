@@ -128,7 +128,9 @@ Sviluppatori : Filippo Sbriglia – Raffaele Iaccarino - Massimiliano De Gregori
 ☕ Ti è stata utile l'app? Offrici un caffè con una piccola donazione – ci aiuterai a continuare a sviluppare con passione! 💙
 
 PAYPAL : sbriacca@degregorio.com
+
 BITCOIN (coin base wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
+
 POSTEPAY: 5341 2345 6789 0090
 
 
