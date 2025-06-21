@@ -31,9 +31,13 @@ ________________________________________
 🛠️ Technologies Used
 
 • Kotlin
+
 • Android Studio
+
 • Gradle (Kotlin DSL)
+
 • Intent & View Binding
+
 • External Link Handling
 ________________________________________
 🚀 How to Run the Project
