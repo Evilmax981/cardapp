@@ -1,5 +1,5 @@
 <resources>
-    //modifcare secondo le nuove indicazioni
+    // modifcare secondo le nuove indicazioni la sequenza non corrisponde @filippo
     
     <string name="app_name">CardApp</string>
     <string name="consulta_card">Consulta tutte le CARD</string>
