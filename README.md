@@ -14,11 +14,11 @@ ________________________________________
 🔗 Currently Available Forms
 Each button in the PresenceActivity screen opens an external link to the following forms:
 
-• Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers): forms.office.com/zBUbpV6iNZ
-• Midweek Holiday Request – YEAR 2025: forms.office.com/Mdzvf9cC3m
-• Solidarity Leave Bank: forms.office.com/CA0AgWcWjD
-• Contract Stabilization: forms.office.com/HHyb6LGd5Z
-• GOP Contact Registration Form: forms.office.com/zBUbpV6iNZ
+1 • Social Security Contribution Exemption art.1 sec. 180-182 Law 213/23 (for mothers): forms.office.com/zBUbpV6iNZ
+2 • Midweek Holiday Request – YEAR 2025: forms.office.com/Mdzvf9cC3m
+3 • Solidarity Leave Bank: forms.office.com/CA0AgWcWjD
+4 • Contract Stabilization: forms.office.com/HHyb6LGd5Z
+5 • GOP Contact Registration Form: forms.office.com/zBUbpV6iNZ
 ________________________________________
 🛠️ Technologies Used
 • Kotlin
@@ -44,9 +44,9 @@ This project is released under the MIT License. See the LICENSE file for more in
 
 Developers: Filippo Sbriglia – Raffaele Iaccarino – Massimiliano De Gregorio
 ☕ Was this app helpful? Treat us to a coffee with a small donation – you'll help us keep developing with passion! 💙
-PAYPAL: sbriacca@degregorio.com
-BITCOIN (Coinbase wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
-POSTEPAY: 5341 2345 6789 0090
+- PAYPAL: sbriacca@degregorio.com
+- BITCOIN (Coinbase wallet): 1NJzJ5RzrJALrd9HXLBG6snrDVK9NqSARj
+- POSTEPAY: 5341 2345 6789 0090
 
 ITALIAN VERSION
 
