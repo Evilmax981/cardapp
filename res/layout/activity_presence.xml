@@ -20,7 +20,7 @@
             android:textColor="#0C3B70"
             android:layout_marginBottom="24dp" />
 
-        <!-- 5 "pulsanti" in stile lista -->
+            // 5 "pulsanti" in stile lista
         <Button
             android:id="@+id/buttonLavoratori"
             android:layout_width="match_parent"
